@@ -87,13 +87,13 @@ train.train_encoder(grace)
 
 ## Models
 
-| Model                                                        | Node classification | Graph classificati[on |
-| ------------------------------------------------------------ | ------------------- | --------------------- |
-| [DGI]([PetarV-/DGI: Deep Graph Infomax (https://arxiv.org/abs/1809.10341) (github.com)](https://github.com/PetarV-/DGI))[ICLR 2019] | :heavy_check_mark:  |                       |
-| [GRACE]([ipjohnson/Grace: Grace is a feature rich dependency injection container library (github.com)](https://github.com/ipjohnson/Grace))[ICML 2020 ] | :heavy_check_mark:  |                       |
-| [GCA]([Yaoyi-Li/GCA-Matting: Official repository for Natural Image Matting via Guided Contextual Attention (github.com)](https://github.com/Yaoyi-Li/GCA-Matting))[WWW 2021] | :heavy_check_mark:  |                       |
-| [MVGRL]([hengruizhang98/mvgrl: DGL Implementation of ICML 2020 Paper 'Contrastive Multi-View Representation Learning on Graphs' (github.com)](https://github.com/hengruizhang98/mvgrl))[ICML 2020] | :heavy_check_mark:  |                       |
-| [CCA-SSG]([hengruizhang98/CCA-SSG: Codes for 'From Canonical Correlation Analysis to Self-supervised Graph Neural Networks'. https://arxiv.org/abs/2106.12484 (github.com)](https://github.com/hengruizhang98/CCA-SSG))[NeurIPS 2021] | :heavy_check_mark:  |                       |
-| [GraphCL]([Shen-Lab/GraphCL: [NeurIPS 2020\] "Graph Contrastive Learning with Augmentations" by Yuning You, Tianlong Chen, Yongduo Sui, Ting Chen, Zhangyang Wang, Yang Shen (github.com)](https://github.com/Shen-Lab/GraphCL))[NeurIPS 2020] | :heavy_check_mark:  |                       |
+| Model                                                        | Node classification |
+| ------------------------------------------------------------ | ------------------- |
+| [DGI]([PetarV-/DGI: Deep Graph Infomax (https://arxiv.org/abs/1809.10341) (github.com)](https://github.com/PetarV-/DGI))[ICLR 2019] | :heavy_check_mark:  |
+| [GRACE]([ipjohnson/Grace: Grace is a feature rich dependency injection container library (github.com)](https://github.com/ipjohnson/Grace))[ICML 2020 ] | :heavy_check_mark:  |
+| [GCA]([Yaoyi-Li/GCA-Matting: Official repository for Natural Image Matting via Guided Contextual Attention (github.com)](https://github.com/Yaoyi-Li/GCA-Matting))[WWW 2021] | :heavy_check_mark:  |
+| [MVGRL]([hengruizhang98/mvgrl: DGL Implementation of ICML 2020 Paper 'Contrastive Multi-View Representation Learning on Graphs' (github.com)](https://github.com/hengruizhang98/mvgrl))[ICML 2020] | :heavy_check_mark:  |
+| [CCA-SSG]([hengruizhang98/CCA-SSG: Codes for 'From Canonical Correlation Analysis to Self-supervised Graph Neural Networks'. https://arxiv.org/abs/2106.12484 (github.com)](https://github.com/hengruizhang98/CCA-SSG))[NeurIPS 2021] | :heavy_check_mark:  |
+| [GraphCL]([Shen-Lab/GraphCL: [NeurIPS 2020\] "Graph Contrastive Learning with Augmentations" by Yuning You, Tianlong Chen, Yongduo Sui, Ting Chen, Zhangyang Wang, Yang Shen (github.com)](https://github.com/Shen-Lab/GraphCL))[NeurIPS 2020] | :heavy_check_mark:  |
 
 ## Contributors
