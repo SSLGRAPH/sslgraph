@@ -1,0 +1,45 @@
+params1 = { 80.4
+    "learning_rate": 0.001,
+    "activation": "rrelu",
+    "feature_drop_prob": 0.1,
+    "edge_mask_prob": 0.4,
+    "num_epochs": 100,
+    'num_layers': 3,
+    'weight_decay': 0.0,
+}
+
+params2 = { 80.5
+    "learning_rate": 0.0005,
+    "feature_drop_prob": 0.2,
+    "edge_mask_prob": 0.4,
+    "num_epochs": 100,
+    'num_layers': 3,
+    'weight_decay': 0.0,
+}
+
+params3 = { 80.7
+    "learning_rate": 0.0005,
+    "feature_drop_prob": 0.2,
+    "edge_mask_prob": 0.4,
+    "num_epochs": 150,
+    'num_layers': 3,
+    'weight_decay': 0.0,
+}
+
+params = { 80.8
+    "learning_rate": 0.0005,
+    "feature_drop_prob": 0.2,
+    "edge_mask_prob": 0.5,
+    "num_epochs": 150,
+    'num_layers': 3,
+    'weight_decay': 0.0,
+}
+
+params = { 81.4 23
+    "learning_rate": 0.0005,
+    "feature_drop_prob": 0.15,
+    "edge_mask_prob": 0.6,
+    "num_epochs": 150,
+    'num_layers': 3,
+    'weight_decay': 0.0,
+}
